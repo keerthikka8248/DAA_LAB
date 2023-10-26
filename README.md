@@ -1,2 +1,2 @@
 # DAA_LAB
-Algorithms in DAA
+Algorithms practised in DAA
